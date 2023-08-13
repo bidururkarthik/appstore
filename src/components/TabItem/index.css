@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  border-color: transparent;
+  font-family: 'Bree Serif';
+  font-weight: 600px;
+  color: #7b8794;
+  cursor: pointer;
+}
+
+.tabcontainer {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-tab-btn {
+  background-color: transparent;
+  border-width: 0px;
+  border-color: transparent;
+  font-family: 'Bree Serif';
+  font-weight: 600px;
+  color: #ace0f9;
+  text-decoration: underline;
+  text-decoration-color: #ace0f9;
+  cursor: pointer;
+}
